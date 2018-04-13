@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Voicetube|Welcome</title>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Cheat Sheet</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="./css/style.css">
+	<script src='./js/changeThumbnails.js'></script>
+
+
+</head>
+<body class="homepage">
+	
+	<!-- Navbar example -->
+	<nav class="navbar navbar-inverse navbar-fixed-top"> <!--inverse: darker, fixed-top: no space under it -->
+		<nav class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><img src="img/logo.png" ></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav ">
+            <li><a href="#">Link <span class="sr-only">(current)</span></a></li>
+            <li><a href="#">Link</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">Separated link</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+        </nav><!-- container -->
+    </nav>
+
+	
+	 
+
+
+	<section id="showcase">
+		<div class="container">
+			<div id="intro">
+				<h2>Learn English by watching subtitled videos, movie trailers, and music videos!</h2>
+				<form > <!-- Later: input="process.php"-->
+				<input type="text" placeholder="Search for...sports, interview, Taylor Swift" id="textBox">
+				<button type="submit" class="button_1">Download App </button>
+				<button type="submit" class="button_2">Tour </button>
+			</form>
+			</div>
+			<div id="introVid">
+				<h2> intro video </h2>
+			</div>
+			
+		</div>
+	</section>
+
+<!--
+	<section id="videos">
+		<div class="container">
+			<div class="card card-body col-md-3 col-sm-4 col-xs-12">
+				<p>video 1 title</p>
+			</div>
+			<div class="card card-body col-md-3 col-sm-4 col-xs-12">
+				<p>video 2 title</p>
+			</div>
+		</div>
+	</section>
+ -->
+ 
+
+	<section class="main">
+		
+			<div class="container">
+			<aside class="homeSidebar">
+				
+				<div id="chooseChannel">
+		 			<label>Choose Channel</label>
+		 			<select onchange="changeThumbnails(this.value)" name="videoGroup" id="videoGroup"> <!--  -->
+		 				<option value=0>TechGuyWeb </option>
+		 				<option value=1>GoogleDevelopers</option>
+		 			</select>
+		 		</div>
+			</aside>
+
+				<div class="mainVid">
+					<h1>New Videos </h1>
+					<section id="boxes2">
+
+							<div class="row" id="videoList">
+								<!--
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="https://i.ytimg.com/vi/MEENB3_9yUw/sddefault.jpg"></a>
+									<p>video 1 title</p>
+								</div>
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="https://i.ytimg.com/vi/MEENB3_9yUw/sddefault.jpg" class="scale"></a>
+									<p>video 2 title</p>
+								</div>
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="./img/logo_html.png" class="scale"></a>
+									<p>video 3 title</p>
+								</div>
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="./img/logo_html.png" class="scale"></a>
+									<p>video 4 title</p>
+								</div>
+							
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="./img/logo_html.png" class="scale"></a>
+									<p>video 5 title</p>
+								</div>
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="./img/logo_html.png" class="scale"></a>
+									<p>video 6 title</p>
+								</div>
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="./img/logo_html.png" class="scale"></a>
+									<p>video 7 title</p>
+								</div>
+								<div class="box col-md-3 col-sm-4 col-xs-12">
+									<a href="video.html"><img src="./img/logo_html.png" class="scale"></a>
+									<p>video 8 title</p>
+								</div>
+							-->
+							</div>
+
+					</section>
+				</div>
+
+		</div>
+	</section>
+
+ 	<div class="container">
+ 		
+ 	</div>
+	
+
+
+<!--
+	<section id="boxes">
+		<div class="container">
+			
+			<div class="box">
+				<a href="video.html"><img src="./img/logo_html.png" class="scale"></a>
+				<p>video 1 title</p>
+			</div>
+			<div class="box">
+				<a href="video.html"><img src="./img/logo_html.png"></a>
+				<p>video 2 title</p>
+			</div>
+			<div class="box">
+				<a href="video.html"><img src="./img/logo_html.png"></a>
+				<p>video 3 title</p>
+			</div>
+			<div class="box">
+				<a href="video.html"><img src="./img/logo_html.png"></a>
+				<p>video 4 title</p>
+			</div>
+			
+
+		</div>
+
+		
+	</section>	-->
+
+	<footer>
+		<p>Team Fabulous, Copyright &copy; 2018</p>
+	</footer>
+
+<!-- need to separate this JS out -->
+<script>
+	/* When click hamburger, initially sidebar was 0 width in CSS, but this function sets width to 250 and pushes main content over by 250 */
+	function openSlideMenu(){
+		document.getElementById('side-menu').style.width='250px';
+		document.getElementById('side-menu').style.marginLeft='10px';
+	}
+
+	function closeSlideMenu(){
+		document.getElementById('side-menu').style.width='0px';
+	}
+</script>
+
+	 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/script.js"></script>
+	<script src='./js/fillThumbnails.js'></script>
+
+</body>
+</html>

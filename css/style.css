@@ -1,0 +1,721 @@
+body.homepage{
+	/*
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:17px;
+	line-height:1.5; */
+	font: 16px/1.5 Helvetica, Arial, sans-serif;
+	padding:0;
+	margin:0;
+	background-color: #e6e6e6;/*#f4f4f4;*/
+}
+
+body.videopage{
+	/*
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:17px;
+	line-height:1.5; */
+	font: 16px/1.5 Helvetica, Arial, sans-serif;
+	padding:0;
+	margin:0;
+	background-color: #3c3c3c;/*#f4f4f4;*/
+}
+
+/* global settings */
+.container{
+	width:90%;
+	margin:auto; /*centers it*/
+	/*overflow:hidden; /* if too long, content is hidden instead of having scroll bar*/
+	position:relative;
+
+}
+
+/*
+.card {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.card iframe {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+*/
+
+
+
+.clr{
+	clear:both;  /* added this or video footer weird*/
+}
+
+.buffer{
+	margin-top:80px;
+
+}
+
+ul{
+	/*margin:0; /* stop the list's default indent*/
+	/*padding:0;  */
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+
+
+/* our sections */
+header{
+	background: #35424a;/* how to make it translucent?*/
+	color: #fff; /* white*/
+	padding-top:10px;
+	min-height: 50px;
+	border-bottom:1px solid #fff;
+	position: fixed; /*make the navigation at the top, overlaying the rest of page*/
+	top:0px;
+	width: 100%;
+	opacity: 0.8;
+	z-index:7;
+	/*clear:both;*/
+}
+
+header #logo{
+	float:left;
+	display:inline;
+	margin:0px;
+	padding:0px;
+}
+
+header #logo h1{
+	margin:0;
+	padding:0;
+}
+
+header .mynavbar{
+	float:right;
+}
+
+header a{
+  float:left;
+  color:#f2f2f2;
+  text-align:center;
+  /*padding:14px 16px;*/
+  text-decoration:none;
+  font-size:17px;
+
+}
+
+ul.mynavbar{
+	margin:8px 0 0 0; /* stop the list's default indent*/
+	padding:0;
+	list-style:none;
+
+}
+
+li.dropName{
+	float:left;
+	display:inline; /* so the links float side by side. li are block elements otherwise */
+	padding: 0 20px 0 20px; /* top, right, bottom, left */
+	z-index:6;
+}
+
+header a:hover{
+	color:#e8491d;  /*BONUS: it's clearer for user  */
+
+}
+
+.mynavbar .open-slide{
+	float:right;
+	margin-top:10px;
+	margin-bottom:0px;
+}
+
+.dropdown{
+	z-index: 7;
+	overflow-y: visible;
+	/* min-height:3rem;*/
+	/*overflow: auto; /* It's stuck in the little header bar*/
+}
+
+
+
+.btn-group button{
+	display:block;
+	width:100%;
+	font-size:2rem;
+	background-color: #111;
+	color: #fff;
+}
+
+/* #side-menu .side-nav Styling for the hamburger's menu*/
+
+.side-nav{
+	height:100%;
+	width:0;
+
+	z-index:1;
+	position:fixed;
+	top:20;
+	right:0;
+	background-color:#111;
+	opacity:0.9;
+	overflow-y:hidden;
+	overflow-x:hidden;
+	padding-top:60px;
+	transition: 0.5s;
+}
+
+.side-nav a{
+	font-size:18px;
+  	color:green; /*#ccc;*/
+	padding:10px 10px 10px 30px;
+	text-decoration:none;
+	transition:0.3s;
+	display:block;
+
+}
+
+.side-nav a:hover{
+  color:yellow;
+}
+
+.side-nav .btn-close{
+  position:absolute; /* sets the x at the top right */
+  top:0;
+  right:22px;
+  font-size:36px;
+  margin-left:50px;
+}
+
+/*Showcase */
+#showcase{
+	min-height:600px;
+	background:url('../img/showcase.png') no-repeat; /* 0 -20px 0 is x-axis, move up 400 pixels*/
+
+	background-position: top; /* make it relative to top of screen */
+	background-size: 1600px;
+}
+
+#intro{
+	/*min-height:200px;
+	width:70%;
+
+	position: relative;
+	*/
+	float:left;
+	margin-top:200px;
+    height: 100%;
+    max-width: 30em;
+
+}
+
+#intro h3{
+	display: block;
+	font-weight: normal;
+	font-size:30px;
+	line-height: 1.4em;
+	color:white;
+	position: relative;
+	height: 100%;
+	max-width: 15em;
+	text-shadow: 0 0 24px rgba(0,0,0,0.5), 0 0 64px rgba(0,0,0,0.25), 0 2px rgba(0,0,0,0.75); /* chrome devtool*/
+}
+
+#textBox{
+	padding:4px;
+	height:50px;
+	width:100%;
+	display:block;
+}
+
+.button_1{
+	height:38px;
+	background:#4CAF50;
+	border:none;
+	margin-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+	color:#fff;
+	font-size:16px;
+	border-radius: 8px;
+
+}
+
+.button_2{
+	height:38px;
+	background:#FF8C00;
+	border:none;
+	margin-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+	color:#fff;
+	font-size:16px;
+	border-radius: 8px;
+
+}
+
+
+#introVid{
+	margin-top:200px;
+	max-width:20em;
+	float:right; /* how to make it disappear when <800px */
+}
+
+/*Video cards in boxes */
+#boxes{
+	margin-top:20px;
+
+}
+
+#boxes .box{
+	float:left;
+	width:25%;
+	padding:10px;
+	background: #fff;
+	padding: 20px;
+	border: #ccc solid 1px;
+	text-align:center;
+	/*	box-sizing:border-box;
+	*/
+
+
+}
+
+#boxes2 .box img{
+	width:100%; /*170px;*/
+	/* text-align:center  align img center?? */
+	padding:0px;
+}
+
+.row{
+	padding:0px;
+}
+
+#boxes2.container{
+	margin:0px;
+}
+
+#boxes2{
+	margin-top:10px;
+
+}
+
+#boxes2 .box{
+	float:left;
+	z-index:1;
+
+	background:transparent;
+	/*
+	padding: 10px 10px 0px 10px;
+	border: #ccc solid 1px;
+	text-align:center; */
+	margin:0px; /* margin not 0 can't show 4 columns!  box-sizing:content-box; won't work either*/
+	overflow: hidden;
+	text-overflow:clip;
+	white-space: nowrap;
+	text-align:justify;
+
+}
+
+#boxes2 .box p{
+	margin-top:10px;
+
+}
+
+.subbox{
+	background-color: orange;
+	background:#fff;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding: 10px;
+	border: #ccc solid 1px;
+	text-align:center;
+	overflow: hidden;
+	text-overflow:clip;
+	white-space: nowrap;
+	text-align:justify;
+}
+
+/* how to shrink??
+https://css-tricks.com/almanac/properties/o/object-fit/
+*/
+.scale{
+	object-fit:scale-down;
+}
+
+footer{
+	padding:20px;
+	margin-top:20px;
+	color:#fff;
+	background-color:#35424a;
+	text-align:center;
+}
+
+/* Styling for the video.html */
+#main #mainVid{
+	float:left;
+	width:65%;
+	padding:10px;
+	background: pink;
+	padding: 20px;
+	border: #ccc solid 1px;
+	text-align:center;
+
+}
+
+.main .container{
+	width:90%;
+	margin-top:10px;
+	padding:0px;
+}
+
+.main .mainVid{
+	float:left;
+	width:75%;
+	background: pink;
+	padding: 0px;
+	border: #ccc solid 1px;
+	text-align:center;
+
+}
+
+.row{
+	margin:0px;
+}
+
+.homeSidebar{
+	float:right;
+	width:22%;
+	min-height:200px;
+	margin-top:10px;
+	margin-left:10px;
+	padding:10px;
+	background: orange; /* background:pink; #e6e6e6;*/
+	border-radius:8px;
+
+}
+
+
+
+#chooseChannel{
+	margin-top:10px;
+
+}
+
+#videoGroup{
+	height:30px;
+	font-size:2rem;
+	width:100%;
+	/*background-color:#FF8C00; */
+}
+
+/*
+#main .container #vidContent{
+	background-color:pink;
+	color:cyan;
+	font-size:100;
+}
+
+.youtubevideowrap{
+	width:85%;
+	margin:auto;
+}*/
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+#vidTitle h1{
+	margin-top: 30px;
+    color: #e6e6e6;
+    font-weight: 200;
+    font-size: 27px;
+    line-height: 32px;
+    vertical-align: top;
+    text-shadow: rgba(0,0,0,.75) 0 1px;
+    display: block;
+}
+
+#vidTitle p{
+	font-size: 12px;
+    color: #B4B0B0;
+}
+
+#captionBox{
+	float:right;
+	width:33%;
+	height:650px;
+	margin-top:10px;
+	margin-left:0px;
+	margin-right:0px;
+	background: #e6e6e6;; /* background:pink; #e6e6e6;*/
+	border-radius:8px;
+	overflow: auto; /* scroll bar */
+}
+
+ul#captionList li{
+	/*list-style:none;*/
+	list-style-image: url("../img/playButton.png");
+	/*
+	padding:20px;
+	border: #cccccc solid 1px;
+	margin-bottom:5px; */
+
+}
+
+/* Media Queries */
+@media(max-width: 768px){ /*768*/
+	#main #mainVid,
+	.main .mainVid,
+	#main aside #sidebar,
+	.sidebar,
+	#captionBox{
+		float:none;
+		text-align:center;
+		width:100%;
+	}
+	.box{
+		float:none;
+		text-align:center;
+		width:100%;
+	}
+	.homeSidebar{
+		float:none;
+		text-align:center;
+		width:90%;
+		margin:auto;
+		min-height:50px;
+	}
+	.homeSidebar #videoGroup{
+		width:100%;
+	}
+	#bs-example-navbar-collapse-1 > ul{
+		background-color:orange;
+		width:250px;
+		float:right;
+		border-radius:25px;
+		margin-right:50px;
+
+	}
+
+
+}
+
+
+/* When large screen, show nav bar with links spread out, no hamburger
+When small screen, show hamburger, no links */
+@media(max-width:870px){
+  .mynavbar-nav{display:none}
+  .dropdown > ul{
+		width:250px;
+		background-color: coral;
+		position:relative; /* solves the overlapping problem! */
+		z-index:2; /* solves the overlapping problem! */
+		opacity:0.9;
+	}
+
+}
+
+@media(min-width:870px){
+  .mynavbar .open-slide{display:none}
+  #side-menu{
+  	opacity:0;
+  }
+}
+
+.main_nav-wrapper{
+	background-color: transparent;
+}
+
+.navbar-fixed-top{
+	position: fixed;
+	background-color: black;
+}
+
+.navbar-fixed-top .container{
+	margin-top: 20px;
+	font-size: 15px;
+}
+
+.navbar-inverse{
+	color: #999;
+}
+.navbar{
+	/* border-radius:0;
+	opacity:0.9;
+	height:70px; */
+	margin-bottom: 20px;
+	overflow: visible;
+	color: #777;
+}
+
+.navbar .nav{
+	position: relative;
+  left: 0;
+  display: block;
+  float: left;
+  margin: 0 10px 0 0;
+}
+.navbar img{
+	width:150px;
+}
+
+
+.navbar-nav .open .dropdown-menu{ /* */
+	width:auto;
+	background-color: #fff;
+
+}
+
+.dropdown-menu > li > a{
+	z-index:1000;
+	position: relative;
+}
+
+.front-search-banner{
+	margin: 0;
+}
+.front-search-banner-container{
+	margin: 0;
+	position: relative;
+	display: inline-block;
+	border: none;
+}
+
+.vt-front-search-banner-hero-container .vt-front-search-banner-container .vt-front-search-banner-main-group .vt-front-search-banner-input-group .vt-front-search-banner-input-container .vt-front-search-button {
+    position: absolute;
+    top: 3px;
+    right: 0;
+    height: 34px;
+    width: 40px;
+    background-color: transparent;
+    border: none;
+    border-left: 1px solid #555;
+}
+
+.thumbnails {
+    margin-left: -20px;
+    list-style: none;
+}
+
+.span8{
+	width: 620px;
+}
+.span3 {
+  width: 220px;
+}
+.span2{
+	width: 140px;
+}
+
+.left-section{
+	min-height: 2000px;
+}
+ol, ul {
+    padding: 0;
+    margin: 0 0 10px 25px;
+}
+
+.tab-content{
+	overflow: visible;
+}
+
+.pill-content>.active, .tab-content>.active {
+    display: block;
+}
+
+.category_header {
+    color: #777;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 980px)
+.tab-pane > ul > li.span2 {
+    width: 30% !important;
+}
+.thumbnails>li {
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+li {
+    line-height: 20px;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.index-block .thumbnail, .category-block .thumbnail {
+    position: relative;
+}
+.thumbnail, .category-block .thumbnail {
+}
+
+.photo {
+    position: relative;
+    margin: 0 auto;
+    display: table;
+}
+
+.photo img {
+    width: 170px;
+    height: 127px;
+}
+img {
+    border: 0;
+		max-width: 100%;
+		vertical-align: middle;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+@media (max-width: 1199px)
+.everyday_index_banner {
+    width: 100% !important;
+}
+.everyday_index_banner {
+    color: #fff;
+    font-size: 18px;
+    width: 268px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 40px;
+    margin-left: 3px;
+    line-height: 22px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,.3);
+}
+
+[class*=span] {
+    float: left;
+    min-height: 1px;
+    margin-left: 20px;
+}

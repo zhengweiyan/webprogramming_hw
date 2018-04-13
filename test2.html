@@ -1,0 +1,41 @@
+<!--
+
+https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript
+
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Get URL query string</title>
+	<script type="text/javascript">
+		function getParameterByName(name, url) {
+		    if (!url) url = window.location.href;
+		    name = name.replace(/[\[\]]/g, "\\$&");
+		    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+		        results = regex.exec(url);
+		    if (!results) return null;
+		    if (!results[2]) return '';
+		    return decodeURIComponent(results[2].replace(/\+/g, " "));
+		}
+	</script>
+</head>
+<body id='body'>
+
+	
+	<script>
+		var str = getParameterByName('video','https://www.oz.nthu.edu.tw/~g9561701/?channel=0&video=7');
+		console.log(str);
+		var str = getParameterByName('video',document.URL);
+		console.log(str);
+
+		function changeBackground(){
+			document.getElementById('body').style.backgroundColor='pink';
+		}
+	</script>
+
+	<a href="#" onclick="changeBackground()">click this </a>
+	<hr>
+
+</body>
+</html>

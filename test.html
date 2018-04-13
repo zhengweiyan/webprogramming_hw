@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!-- https://coolestguidesontheplanet.com/videodrome/youtube/ -->
+<html>
+<head>
+	<title>test</title>
+	<style>
+		.youtubevideowrap{
+			width:85%;
+			margin:auto;
+		}
+		.video-container {
+			position:relative;
+			padding-bottom:56.25%;
+			padding-top:30px;
+			height:0;
+			overflow:hidden;
+		}
+
+		.video-container iframe, .video-container object, .video-container embed {
+			position:absolute;
+			top:0;
+			left:0;
+			width:100%;
+			height:100%;
+		}
+	</style>
+</head>
+<body>
+	<div class="youtubevideowrap">
+		<div class="video-container">
+			<iframe width="640" height="352" src = "https://www.youtube.com/embed/MEENB3_9yUw" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+
+	<hr>
+	HIHIHIHIHIHIHI
+	<hr>
+	<ul id="videoList1"></ul>
+	<ul id="videoList"></ul>
+
+	Testing the script
+	<!--
+	<script>
+		console.log('hi2');
+		var xhttp2 = new XMLHttpRequest();
+      	xhttp2.onreadystatechange = function() {
+          	if (this.readyState == 4 && this.status == 200) {
+            	var response = JSON.parse(xhttp.responseText);
+            	var playlists = response.playlists;
+            	console.log(playlists[0]['items'][0]['snippet']['title']);
+            	console.log(playlists.length);
+
+            	var output = '';
+            	for(var i = 0; i < playlists.length ;i++){
+            		for(var j=0; j<playlists[i]['items'].length;j++){
+            			//console.log(playlists[0]['items'][0]['snippet']['title']);
+            			output += '<li>'+response.playlists[i]['items'][j]['snippet']['title']+'</li>';
+            		}
+              	
+            	}
+            	document.getElementById('videoList1').innerHTML = output;
+          	}
+      	};
+      	xhttp2.open("GET", "vid16.json", true);
+      	xhttp2.send();
+	</script>
+
+
+
+
+Apparently need to rewind!! -->
+	Hi3
+	<script src='./js/fillThumbnails.js'></script>
+
+</body>
+</html>

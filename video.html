@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Voicetube|Video</title>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Cheat Sheet</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="./css/style.css">
+	<script src="js/getVideo.js"></script>
+
+
+</head>
+<body class="videopage" onload="getVideo()">
+	<header>
+		<div class="container">
+			<div id="logo">
+				<a href="index.html"><h1>VoiceTube</h1></a>
+			</div>
+			
+			<nav class="mynavbar">
+				<ul class="mynavbar-nav">
+					<!-- Channels Dropdown -->
+					<li class="dropName dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Channels <span class="caret"></span></a>
+			            <ul class="dropdown-menu">
+			                <li><a href="#">Action1</a></li>
+			                <li><a href="#">Another action2</a></li>
+			            </ul>
+            		</li>
+
+            		<!-- Levels Dropdown -->
+					<li class="dropName dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Levels <span class="caret"></span></a>
+			            <ul class="dropdown-menu">
+			                <li><a href="#">Action1</a></li>
+			                <li><a href="#">Another action2</a></li>
+			            </ul>
+            		</li>
+
+            		<!-- Listening & Speaking Dropdown -->
+					<li class="dropName dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Listening & Speaking <span class="caret"></span></a>
+			            <ul class="dropdown-menu">
+			                <li><a href="#">Action1</a></li>
+			                <li><a href="#">Another action2</a></li>
+			            </ul>
+            		</li>
+
+            		<!--
+
+					<li class="dropName"><a href="#">Levels</a></li>
+					<li class="dropName"><a href="#">Listening & Speaking</a></li>
+					-->
+				</ul>
+				 
+
+				
+				<div class="open-slide">
+					<a href="#" onclick="openSlideMenu()">
+						<svg width="30" height="30">
+							<path d="M0,5 30,5" stroke="#fff" stroke-width="5"/>
+				            <path d="M0,14 30,14" stroke="#fff" stroke-width="5"/>
+				            <path d="M0,23 30,23" stroke="#fff" stroke-width="5"/>
+						</svg>
+					</a>
+				</div>
+			</nav>
+		
+
+
+
+		</div>
+	</header>
+	
+
+
+
+	<div id="side-menu" class="side-nav">
+		<a href="#" class="btn-close" onclick="closeSlideMenu()">&times;</a>
+		<!-- Channels Dropdown -->
+		<div class=" dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Channels <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li><a href="#">Action1</a></li>
+                <li><a href="#">Another action2</a></li>
+            </ul>
+		</div>
+
+		<!-- Levels Dropdown -->
+		<div class=" dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Levels <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li><a href="#">Action1</a></li>
+                <li><a href="#">Another action2</a></li>
+            </ul>
+		</div>
+
+		<!-- Listening & Speaking Dropdown -->
+		<div class=" dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Listening & Speaking <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li><a href="#">Action1</a></li>
+                <li><a href="#">Another action2</a></li>
+            </ul>
+		</div>
+
+	</div>
+
+	<div class="buffer"></div>
+
+	<section id="main">
+		<div class="container">
+			<div class="clr"></div>
+			<article id="vidTitle">
+				<h1 id='videoTitle'>  </h1>
+				<p>___ published on March 26, 2018      ___ translated      ___ reviewed </p>
+			</article>
+			
+			<div id="mainVid">
+				<!--<img src="./img/mainVideo.png">
+				<div id="vidContent">HI!!!!</div>-->
+				
+				<div class="video-container">
+					<!--
+					<iframe width="640" height="352" src = "https://www.youtube.com/embed/MEENB3_9yUw" frameborder="0" allowfullscreen id="videoFrame"></iframe> -->
+					<!-- src input by getVideo.js -->
+					<iframe width="640" height="352" frameborder="0" allowfullscreen id="videoFrame"></iframe>
+					 <!--<script src='js/yt.js'></script>-->
+					 <!--<div id="ytplayer"></div>
+					 <script src='js/yt2.js'></script>-->
+					
+				</div> 
+				<p> video description</p>
+			</div>
+
+			<aside id="captionBox">
+				<ul id="captionList">
+					<!--
+					<li>
+						<h3>caption 1</h3>
+					</li>
+					<li>
+						<h3>caption 2</h3>
+					</li>
+					<li>
+						<h3>caption 3 </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					<li>
+						<h3>caption  </h3>
+					</li>
+					-->
+			</aside>
+
+			
+
+
+			
+
+		</div>
+		
+	</section>
+
+	
+	<footer>
+		<p>Team Fabulous, Copyright &copy; 2018</p>
+	</footer>
+
+	<!-- need to separate this JS out -->
+	<script>
+		/* When click hamburger, initially sidebar was 0 width in CSS, but this function sets width to 250 and pushes main content over by 250 */
+		function openSlideMenu(){
+			document.getElementById('side-menu').style.width='250px';
+			document.getElementById('side-menu').style.marginLeft='10px';
+		}
+
+		function closeSlideMenu(){
+			document.getElementById('side-menu').style.width='0px';
+		}
+	</script>
+
+	 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/script.js"></script>
+	<script src='js/yt.js'></script>
+
+</body>
+</html>

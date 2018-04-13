@@ -1,0 +1,386 @@
+
+{
+  "playlists":[
+      
+      {
+         "kind": "youtube#playlistItemListResponse",
+        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/dmDudMWDR5P-1PmtxSsfQfIBryY\"",
+        "nextPageToken": "CAgQAA",
+        "pageInfo": {
+          "totalResults": 547,
+          "resultsPerPage": 8
+        },
+        "items": [
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/B2XAdF1-_UyV6NDeJKy25rSSSvQ\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLk1FRU5CM185eVV3",
+            "snippet": {
+              "publishedAt": "2018-04-05T19:27:56.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "CamanJS - Build An Image Filter Web App",
+              "description": "In this video we will build a web app that lets you upload an image to a canvas and add filters and effects using CamanJS, then download the edited image. \n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCode For This Project:\nhttps://codepen.io/bradtraversy/pen/qoJZBy\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 0,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MEENB3_9yUw"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/4FKJ7V8xEEVQzLnW55A8Wvb33vk\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLnBrM3RzeW5OWjB3",
+            "snippet": {
+              "publishedAt": "2018-04-02T16:17:53.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Is jQuery Still Relevant in 2018?",
+              "description": "Add MailTag to Chrome: http://go.mailtag.io/7ubwpEqi\n\nIn this video we will talk about jQuery in 2018 and compare some of it's features like DOM manipulation, ajax, utilities, etc to the vanilla JS solutions and code samples as well as talk about some other small specialized libraries to take the place in some areas. I will also give my own opinions and thoughts as well\n\nModern JS From The Beginning: (Learn JS Without Libraries)\nhttps://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=YOUTUBE10\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 1,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "pk3tsynNZ0w"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/sW2Csrx7Kc5dPvZ1XiOm5lZu6mU\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLmRleXhJLTZDMnU0",
+            "snippet": {
+              "publishedAt": "2018-03-29T16:14:35.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "React & Webpack 4 From Scratch - No CLI",
+              "description": "In this video we will setup React WITHOUT the Create-React-App CLI. The CLI is fantastic but many people do not understand how it works behind the scenes. In this video we will setup React from scratch with Webpack 4 and Babel.\n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCode For This Project:\nhttps://github.com/bradtraversy/react_webpack_starter\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 2,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "deyxI-6C2u4"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/-mXTcr4BCz_2z7y0T2QZvr7Svw8\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLk04THh1N21paXlr",
+            "snippet": {
+              "publishedAt": "2018-03-26T17:18:57.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "PHP vs. Python In 2018 - My Take...",
+              "description": "Add MailTag to Chrome: http://go.mailtag.io/7ubwpEqi\n\nIn this video we are going to talk about PHP and Python and some of the differences in use,  popularity, learning curve, frameworks and so on.\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 3,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "M8Lxu7miiyk"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/kTJRtfG08hG_0s0VOnTItvPOgCs\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLkhVQk50MThSRmJv",
+            "snippet": {
+              "publishedAt": "2018-03-23T18:42:36.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Markdown Crash Course",
+              "description": "In this video we will discuss what Markdown is, what it is used for and we will jump into VSCode and learn the entire syntax in around 10 minutes. We will also push to a Github repo to see what it looks like there.\n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCheat Sheet Gist:\nhttps://gist.github.com/bradtraversy/547a7bbf35ffba1561706e161a50b05a\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 4,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "HUBNt18RFbo"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/GYjTPbcy1NAnUif6DSiqg5CqBZM\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLjRNNnFQb0ZXSXhJ",
+            "snippet": {
+              "publishedAt": "2018-03-20T20:37:21.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Social Media Accordion With CSS3 Transitions",
+              "description": "In this mini project we will create a social media accordion slider using only CSS. We will use CSS3 transitions only, no JavaScript at all.\n\nCode For This Project:\nhttps://codepen.io/bradtraversy/pen/EEWNQP\n\nGenericons Fonts Download: \nhttp://traversymedia.com/downloads/genericons.zip\n\nOriginal Codepen:\nhttps://codepen.io/rrenula/pen/DGrhf\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 5,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "4M6qPoFWIxI"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/GTTNE_1uVwcyie7mYUUmUA5d3WY\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLjkzcDNMeFI5eGZN",
+            "snippet": {
+              "publishedAt": "2018-03-17T13:50:15.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Redux Crash Course With React",
+              "description": "In this video we will talk about what Redux is and build a React app from scratch and add all of the boilerplate for Redux and work with the store/state, actions, reducers and all of the other fundamentals of the Redux state manager. The actual Redux implementation starts around 22:00. This video is for people that know the basics of React and want to learn about Redux. If you want to learn React, check out my crash course at https://www.youtube.com/watch?v=A71aqufiNtQ\n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCode For This Project:\nhttps://github.com/bradtraversy/redux_crash_course\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 6,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "93p3LxR9xfM"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/agJioj6SKWu9cPI893DOyyYLNl0\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLldWZUU0U1hJT3dB",
+            "snippet": {
+              "publishedAt": "2018-03-15T01:05:38.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Up & Running With Symfony 4 - Part 3: Create, Update & Delete",
+              "description": "In this first part of the series we will add the functionality in our controller to create a form programmatically with the form extension and create, update and delete articles.\n\nCode: Github Repo\nhttps://github.com/bradtraversy/symphart\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 7,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "WVeE4SXIOwA"
+              }
+            }
+          }
+        ]
+      }
+
+
+
+
+       
+
+
+  ]  
+} 
+
+

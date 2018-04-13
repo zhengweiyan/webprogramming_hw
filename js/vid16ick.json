@@ -1,0 +1,888 @@
+
+{
+  "playlists":[
+      
+      {
+         "kind": "youtube#playlistItemListResponse",
+        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/dmDudMWDR5P-1PmtxSsfQfIBryY\"",
+        "nextPageToken": "CAgQAA",
+        "pageInfo": {
+          "totalResults": 547,
+          "resultsPerPage": 8
+        },
+        "items": [
+          {
+                "kind": "youtube#video",
+                "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/X-4pzCZobI61K7B-bO3WvwKl4Cc\"",
+                "id": "M7FIvfx5J10",
+                "snippet": {
+                      "captions":[
+                        {
+                          "start":3.3,
+                          "dur":2.1,
+                          "txt":"I’ve had my ups and downs"
+                        },
+                        {
+                          "start": 5.8 ,
+                          "dur": 3.733,
+                          "txt": "my fair share of bumpy roads and heavy winds. "
+                        },
+                        
+                        {
+                          "start":9.868 ,
+                          "dur": 2.898,
+                          "txt": "That’s what made me what I am today. "
+                        },
+                        
+                        {
+                          "start":13.901 ,
+                          "dur": 2.169,
+                          "txt": "Now I stand here before you. "
+                        },
+                        
+                        {
+                          "start":16.985 ,
+                          "dur": 3.036,
+                          "txt": " What you see is a body crafted to perfection"
+                        },
+                        
+                        {
+                          "start": 21.07,
+                          "dur": 3.647,
+                          "txt": "a pair of legs engineered to defy the laws of physics … "
+                        },
+                        
+                        {
+                          "start": 25.1,
+                          "dur": 5.297,
+                          "txt": " and a mind set to master the most epic of splits."
+                        },
+                        
+                        {
+                          "start": 61.181 ,
+                          "dur": 1.852,
+                          "txt": "This test was set up to demonstrate the stability "
+                        },
+                        
+                        {
+                          "start": 63.48 ,
+                          "dur": 4.12 ,
+                          "txt": " and precision of Volvo Dynamic Steering."
+                        },
+                        
+                        {
+                          "start": 72.88,
+                          "dur": 3.12,
+                          "txt": "It was carried out by professionals in a closed-off area "
+                        }
+                    ],
+                  "publishedAt": "2013-11-14T07:00:03.000Z",
+                  "channelId": "UCkKEthtUQHmBqIYZTHyfXoA",
+                  "title": "Volvo Trucks - The Epic Split feat. Van Damme (Live Test)",
+                  "description": "Watch Jean-Claude Van Damme carry out his famous split between two reversing trucks. Never done before, JCVD says it's the most epic of splits -- what do you think? Please share & comment! \n\nThis live test was set up to demonstrate the precision and directional stability of Volvo Dynamic Steering -- a world first technology that makes the Volvo FM easier to drive. \n\nFilmed in Spain on a closed-off landing field at sunrise in one take.\n\nDirected by Andreas Nilsson\nSoundtrack by Enya: Only Time\n\nMore about Volvo FM & Volvo Dynamic Steering: \nhttp://www.volvotrucks.com/en-en/trucks/volvo-fm.html\n\nDon't miss coming films and other exciting material: \nhttp://www.facebook.com/VolvoTrucks\nhttp://www.youtube.com/VolvoTrucks\nhttps://twitter.com/VolvoTrucks\nhttps://www.linkedin.com/company/volv...\nhttps://plus.google.com/+volvotrucks\nhttp://www.flickr.com/photos/volvotrucks\nhttp://www.pinterest.com/volvotrucks\nhttp://instagram.com/volvotrucks\n\nSee the Teaser with Jean-Claude Van Damme and the technician behind the new steering: http://youtu.be/Yatg89gi0nM",
+                  "thumbnails": {
+                    "default": {
+                      "url": "https://i.ytimg.com/vi/M7FIvfx5J10/default.jpg",
+                      "width": 120,
+                      "height": 90
+                    },
+                    "medium": {
+                      "url": "https://i.ytimg.com/vi/M7FIvfx5J10/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                    },
+                    "high": {
+                      "url": "https://i.ytimg.com/vi/M7FIvfx5J10/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                    },
+                    "standard": {
+                      "url": "https://i.ytimg.com/vi/M7FIvfx5J10/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                    },
+                    "maxres": {
+                      "url": "https://i.ytimg.com/vi/M7FIvfx5J10/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                    }
+                  },
+                  "channelTitle": "Volvo Trucks",
+                  "tags": [
+                    "Stunt",
+                    "Volvo trucks stunt",
+                    "Volvo trucks the epic split",
+                    "Fast",
+                    "Split",
+                    "The Split",
+                    "Epic Split",
+                    "Jean",
+                    "Claude Van Damme",
+                    "JCVD",
+                    "Volvo Van Damme",
+                    "Volvo Split",
+                    "Volvo Trucks Split",
+                    "Live test",
+                    "Live tests",
+                    "Live test 6",
+                    "martial arts",
+                    "Enya",
+                    "Only Time",
+                    "Action movies",
+                    "Hollywood action",
+                    "Volvo",
+                    "Volvo Trucks",
+                    "Volvo FM",
+                    "Volvo Dynamic Steering"
+                  ],
+                  "categoryId": "2",
+                  "liveBroadcastContent": "none",
+                  "localized": {
+                    "title": "Volvo Trucks - The Epic Split feat. Van Damme (Live Test)",
+                    "description": "Watch Jean-Claude Van Damme carry out his famous split between two reversing trucks. Never done before, JCVD says it's the most epic of splits -- what do you think? Please share & comment! \n\nThis live test was set up to demonstrate the precision and directional stability of Volvo Dynamic Steering -- a world first technology that makes the Volvo FM easier to drive. \n\nFilmed in Spain on a closed-off landing field at sunrise in one take.\n\nDirected by Andreas Nilsson\nSoundtrack by Enya: Only Time\n\nMore about Volvo FM & Volvo Dynamic Steering: \nhttp://www.volvotrucks.com/en-en/trucks/volvo-fm.html\n\nDon't miss coming films and other exciting material: \nhttp://www.facebook.com/VolvoTrucks\nhttp://www.youtube.com/VolvoTrucks\nhttps://twitter.com/VolvoTrucks\nhttps://www.linkedin.com/company/volv...\nhttps://plus.google.com/+volvotrucks\nhttp://www.flickr.com/photos/volvotrucks\nhttp://www.pinterest.com/volvotrucks\nhttp://instagram.com/volvotrucks\n\nSee the Teaser with Jean-Claude Van Damme and the technician behind the new steering: http://youtu.be/Yatg89gi0nM"
+                  },
+                  "defaultAudioLanguage": "en"
+                }
+              },
+
+          { 
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/B2XAdF1-_UyV6NDeJKy25rSSSvQ\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLk1FRU5CM185eVV3",
+            "snippet": {
+              "publishedAt": "2018-04-05T19:27:56.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "CamanJS - Build An Image Filter Web App",
+              "description": "In this video we will build a web app that lets you upload an image to a canvas and add filters and effects using CamanJS, then download the edited image. \n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCode For This Project:\nhttps://codepen.io/bradtraversy/pen/qoJZBy\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/MEENB3_9yUw/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 0,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MEENB3_9yUw"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/4FKJ7V8xEEVQzLnW55A8Wvb33vk\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLnBrM3RzeW5OWjB3",
+            "snippet": {
+              "publishedAt": "2018-04-02T16:17:53.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Is jQuery Still Relevant in 2018?",
+              "description": "Add MailTag to Chrome: http://go.mailtag.io/7ubwpEqi\n\nIn this video we will talk about jQuery in 2018 and compare some of it's features like DOM manipulation, ajax, utilities, etc to the vanilla JS solutions and code samples as well as talk about some other small specialized libraries to take the place in some areas. I will also give my own opinions and thoughts as well\n\nModern JS From The Beginning: (Learn JS Without Libraries)\nhttps://www.udemy.com/modern-javascript-from-the-beginning/?couponCode=YOUTUBE10\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/pk3tsynNZ0w/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 1,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "pk3tsynNZ0w"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/sW2Csrx7Kc5dPvZ1XiOm5lZu6mU\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLmRleXhJLTZDMnU0",
+            "snippet": {
+              "publishedAt": "2018-03-29T16:14:35.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "React & Webpack 4 From Scratch - No CLI",
+              "description": "In this video we will setup React WITHOUT the Create-React-App CLI. The CLI is fantastic but many people do not understand how it works behind the scenes. In this video we will setup React from scratch with Webpack 4 and Babel.\n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCode For This Project:\nhttps://github.com/bradtraversy/react_webpack_starter\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/deyxI-6C2u4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 2,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "deyxI-6C2u4"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/-mXTcr4BCz_2z7y0T2QZvr7Svw8\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLk04THh1N21paXlr",
+            "snippet": {
+              "publishedAt": "2018-03-26T17:18:57.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "PHP vs. Python In 2018 - My Take...",
+              "description": "Add MailTag to Chrome: http://go.mailtag.io/7ubwpEqi\n\nIn this video we are going to talk about PHP and Python and some of the differences in use,  popularity, learning curve, frameworks and so on.\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/M8Lxu7miiyk/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 3,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "M8Lxu7miiyk"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/kTJRtfG08hG_0s0VOnTItvPOgCs\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLkhVQk50MThSRmJv",
+            "snippet": {
+              "publishedAt": "2018-03-23T18:42:36.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Markdown Crash Course",
+              "description": "In this video we will discuss what Markdown is, what it is used for and we will jump into VSCode and learn the entire syntax in around 10 minutes. We will also push to a Github repo to see what it looks like there.\n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCheat Sheet Gist:\nhttps://gist.github.com/bradtraversy/547a7bbf35ffba1561706e161a50b05a\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/HUBNt18RFbo/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 4,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "HUBNt18RFbo"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/GYjTPbcy1NAnUif6DSiqg5CqBZM\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLjRNNnFQb0ZXSXhJ",
+            "snippet": {
+              "publishedAt": "2018-03-20T20:37:21.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Social Media Accordion With CSS3 Transitions",
+              "description": "In this mini project we will create a social media accordion slider using only CSS. We will use CSS3 transitions only, no JavaScript at all.\n\nCode For This Project:\nhttps://codepen.io/bradtraversy/pen/EEWNQP\n\nGenericons Fonts Download: \nhttp://traversymedia.com/downloads/genericons.zip\n\nOriginal Codepen:\nhttps://codepen.io/rrenula/pen/DGrhf\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/4M6qPoFWIxI/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 5,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "4M6qPoFWIxI"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/GTTNE_1uVwcyie7mYUUmUA5d3WY\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLjkzcDNMeFI5eGZN",
+            "snippet": {
+              "publishedAt": "2018-03-17T13:50:15.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Redux Crash Course With React",
+              "description": "In this video we will talk about what Redux is and build a React app from scratch and add all of the boilerplate for Redux and work with the store/state, actions, reducers and all of the other fundamentals of the Redux state manager. The actual Redux implementation starts around 22:00. This video is for people that know the basics of React and want to learn about Redux. If you want to learn React, check out my crash course at https://www.youtube.com/watch?v=A71aqufiNtQ\n\nSponsor: Coding Dojo\nhttp://www.codingdojo.com/l/yt/tr\n\nCode For This Project:\nhttps://github.com/bradtraversy/redux_crash_course\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/93p3LxR9xfM/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 6,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "93p3LxR9xfM"
+              }
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/agJioj6SKWu9cPI893DOyyYLNl0\"",
+            "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLldWZUU0U1hJT3dB",
+            "snippet": {
+              "publishedAt": "2018-03-15T01:05:38.000Z",
+              "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+              "title": "Up & Running With Symfony 4 - Part 3: Create, Update & Delete",
+              "description": "In this first part of the series we will add the functionality in our controller to create a form programmatically with the form extension and create, update and delete articles.\n\nCode: Github Repo\nhttps://github.com/bradtraversy/symphart\n\n?? Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Courses\nhttp://www.traversymedia.com\n\nFollow Traversy Media:\nhttp://www.facebook.com/traversymedia\nhttp://www.twitter.com/traversymedia\nhttp://www.instagram.com/traversymedia\n\nThe Developer Hangout: Public Discord Server\nhttps://discord.gg/developers",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/WVeE4SXIOwA/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Traversy Media",
+              "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+              "position": 7,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "WVeE4SXIOwA"
+              }
+            }
+          }
+        ]
+      },
+
+
+      {
+                    "kind": "youtube#playlistItemListResponse",
+                    "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/k7mc0UsjnAdS8XGlSy5orZZ-X04\"",
+                    "nextPageToken": "CAgQAA",
+                    "pageInfo": {
+                      "totalResults": 4613,
+                      "resultsPerPage": 8
+                    },
+                    "items": [
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/jf2ioHARj6LV50pu9EKtFWIC-qw\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3LnJLZjZDTkpzYVBN",
+                        "snippet": {
+                          "publishedAt": "2018-04-06T17:03:48.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "Introduction to Custom Actions for the Google Assistant SDK",
+                          "description": "The Google Assistant SDK lets you embed the Google Assistant into your own device. In addition to all of the natural language understanding of the Google Assistant, you can also build custom actions that will run on your own unique hardware when a user says a particular phrase. Nick Felker also shows you some of the cool things his receipt printer is capable of after adding the Google Assistant SDK.  \n\nGet started by checking out the documentation → https://goo.gl/Y19awk\n\nIntegrating the Google Assistant with Embedded Devices playlist → https://goo.gl/dtQoih\nSubscribe to our channel to stay up to date → http://goo.gl/mQyv5L",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/rKf6CNJsaPM/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/rKf6CNJsaPM/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/rKf6CNJsaPM/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/rKf6CNJsaPM/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 0,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "rKf6CNJsaPM"
+                          }
+                        }
+                      },
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/vqMh-NwwJ0J5yocdED_mebYhXKc\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3LmlWWXBlRWQzSmVz",
+                        "snippet": {
+                          "publishedAt": "2018-04-06T21:05:16.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "How do Dart and Flutter Work Together?",
+                          "description": "In this episode, Laurence Moroney (@lmoroney) meets with Emily Fortuna (@bouncingsheep) from the Dart Team at Google to talk about her role as a Chief Meme Officer, as well as a software engineer working on the Dart Language. They geek out over Flutter, and how it can change your mobile development for the better! Oh, and you might even get to hear Laurence sing a little bit of Hamilton...\n\nGet started with Flutter → https://flutter.io \nEmily's I/O Session → https://goo.gl/k2pEZC\nHamilton App → https://goo.gl/ytKux9\n\nWatch more Coffee with a Googler → https://goo.gl/5l123N\n\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/iVYpeEd3Jes/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/iVYpeEd3Jes/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/iVYpeEd3Jes/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/iVYpeEd3Jes/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            "maxres": {
+                              "url": "https://i.ytimg.com/vi/iVYpeEd3Jes/maxresdefault.jpg",
+                              "width": 1280,
+                              "height": 720
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 1,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "iVYpeEd3Jes"
+                          }
+                        }
+                      },
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/b5lmIRiP5_rKajZgP9uATKtzldU\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3LmhWbkU1MzFRTG1N",
+                        "snippet": {
+                          "publishedAt": "2018-04-05T19:58:01.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "TensorRT & TensorFlow 1.7, Android Studio 3.1, Google Cloud Text-to-Speech & More! - TL;DR 106",
+                          "description": "TensorRT and TensorFlow 1.7 → https://goo.gl/qGCJyW\nAndroid Studio 3.1 → https://goo.gl/cn2UeW\nWear OS by Google → https://goo.gl/k5GaZT\nStackdriver APM and Stackdriver Profiler → https://goo.gl/dsTgLM\nCloud Text-to-Speech → https://goo.gl/MtvKRL\nKubernetes Engine Private Clusters → https://goo.gl/QQCC8m\n\nToday’s TL;DR is led by Google Developer Advocate Timothy Jordan. The TL;DR is where you can stay up to date on all the latest developer news from across our developer teams at Google.\n\nCheck out the latest TL;DR episodes → https://goo.gl/cHuQkL\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/hVnE531QLmM/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/hVnE531QLmM/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/hVnE531QLmM/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/hVnE531QLmM/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            "maxres": {
+                              "url": "https://i.ytimg.com/vi/hVnE531QLmM/maxresdefault.jpg",
+                              "width": 1280,
+                              "height": 720
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 2,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "hVnE531QLmM"
+                          }
+                        }
+                      },
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/0UQoxZm9kwyZvcm3XUTN7qqiX2g\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3LkUxYlEzaDdScnBn",
+                        "snippet": {
+                          "publishedAt": "2018-04-03T16:48:06.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "Google Summer of Code 2013 Mentor Summit",
+                          "description": "Every year Google brings together over 300 members of the Open Source Community from all corners of the globe to our headquarters in Mountain View, California. They have an unparalleld opportunity to discuss their efforts in free and open source software, find new and In this video, some participants  to share their thoughts on the Google Summer of Code Mentorship Program.",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/E1bQ3h7Rrpg/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/E1bQ3h7Rrpg/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/E1bQ3h7Rrpg/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/E1bQ3h7Rrpg/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            "maxres": {
+                              "url": "https://i.ytimg.com/vi/E1bQ3h7Rrpg/maxresdefault.jpg",
+                              "width": 1280,
+                              "height": 720
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 3,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "E1bQ3h7Rrpg"
+                          }
+                        }
+                      },
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/WSDi0QVYq26peOnKc82lvltEYoQ\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3LnV4RHVaczlrOEIw",
+                        "snippet": {
+                          "publishedAt": "2018-04-02T17:11:43.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "Developer Student Clubs Leaders Summit Highlights",
+                          "description": "Check out the highlights from the Developer Student Clubs (DSC) Summit in Bali, Indonesia on March 3 - 4, 2018! Sixty DSC Leads from 60 universities across Indonesia participated and were trained on Android, Web, Machine Learning, Design Thinking, leadership, and more. They will now be training students at their universities on mobile and web development skills and also solving local business problems through technology. \n\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/uxDuZs9k8B0/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/uxDuZs9k8B0/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/uxDuZs9k8B0/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/uxDuZs9k8B0/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            "maxres": {
+                              "url": "https://i.ytimg.com/vi/uxDuZs9k8B0/maxresdefault.jpg",
+                              "width": 1280,
+                              "height": 720
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 4,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "uxDuZs9k8B0"
+                          }
+                        }
+                      },
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/0RH3iYXZPM9y0zAauwL6PABsABI\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3LnBTVWtUSThmM3lz",
+                        "snippet": {
+                          "publishedAt": "2018-03-30T19:44:36.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "GTXiLib, MongoDB Atlas on GCP, Chrome 66 Beta & More! - TL;DR 105",
+                          "description": "Funding 15,000 web and Android scholarships in Africa → https://goo.gl/FQqgCa\nGTXiLib → https://goo.gl/nJiAgF\nMongoDB Atlas availability on GCP → https://goo.gl/Vu8grv\nChrome 66 Beta → https://goo.gl/ZW6dy8\nProtect and control your GCP services and data → https://goo.gl/MScrkL\nFirebase Realtime Database supports Google Stackdriver Alerts → https://goo.gl/upLdHU\nFirebase for Game Developers → https://goo.gl/J9NuzV\n\nToday’s TL;DR is led by Google Developer Advocate Florina Muntenescu. The TL;DR is where you can stay up to date on all the latest developer news from across our developer teams at Google.\n\nCheck out the latest TL;DR episodes → https://goo.gl/cHuQkL\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/pSUkTI8f3ys/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/pSUkTI8f3ys/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/pSUkTI8f3ys/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/pSUkTI8f3ys/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            "maxres": {
+                              "url": "https://i.ytimg.com/vi/pSUkTI8f3ys/maxresdefault.jpg",
+                              "width": 1280,
+                              "height": 720
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 5,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "pSUkTI8f3ys"
+                          }
+                        }
+                      },
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/acE4FKhJCkqxpwLGJAKjSfHEtnw\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3Lmg3SE90M0piMVRz",
+                        "snippet": {
+                          "publishedAt": "2018-03-29T21:54:47.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "What is Flutter?",
+                          "description": "What is Flutter? In this episode of Coffee with a Googler, Laurence Moroney (@lmoroney) meets with Eric Seidel (@_eseidel) to learn all about it! Hear about how Eric tore the basics of the web to pieces to learn what works and what doesn't, and how this brought about Flutter -- Google’s mobile UI framework for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. Learn about it at https://flutter.io.\n\nWatch more Coffee with a Googler → https://goo.gl/5l123N\n\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/h7HOt3Jb1Ts/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/h7HOt3Jb1Ts/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/h7HOt3Jb1Ts/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/h7HOt3Jb1Ts/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            "maxres": {
+                              "url": "https://i.ytimg.com/vi/h7HOt3Jb1Ts/maxresdefault.jpg",
+                              "width": 1280,
+                              "height": 720
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 6,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "h7HOt3Jb1Ts"
+                          }
+                        }
+                      },
+                      {
+                        "kind": "youtube#playlistItem",
+                        "etag": "\"RmznBCICv9YtgWaaa_nWDIH1_GM/CBkheZnFeZYCnZplIwYlRJQ3Jw0\"",
+                        "id": "VVVfeDVYRzFPVjJQNnVaWjVGU005VHR3LkJYZ0JPd0RZc05n",
+                        "snippet": {
+                          "publishedAt": "2018-03-28T23:44:13.000Z",
+                          "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "title": "Announcing the TensorFlow YouTube Channel!",
+                          "description": "The TensorFlow YouTube channel is here!  Subscribe to our featured channel https://www.youtube.com/tensorflow to be notified about all their latest videos, as well as the TensorFlow Dev Summit being livestreamed on March 30th. \n\nThey have a great lineup of shows that cover the wide range of things you can do with Tensorflow. See the lineup below:\n\n• Coding TensorFlow - where we write and explore TensorFlow code together →  https://goo.gl/XZTYsT\n\n• TensorFlow Meets - where we meet members of the TensorFlow developer community (you!) and talk about all the great things being done with TensorFlow →  https://goo.gl/G9Y46n\n\n• #AskTensorFlow - where we answer TensorFlow questions directly from users -- ask us anything using the hashtag #AskTensorFlow on Twitter or in the comments below → https://goo.gl/vifptK\n\nFollow TensorFlow on Twitter! → https://goo.gl/w8vfg5\nSubscribe to the TensorFlow channel → https://goo.gl/ht3WGe",
+                          "thumbnails": {
+                            "default": {
+                              "url": "https://i.ytimg.com/vi/BXgBOwDYsNg/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            "medium": {
+                              "url": "https://i.ytimg.com/vi/BXgBOwDYsNg/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            "high": {
+                              "url": "https://i.ytimg.com/vi/BXgBOwDYsNg/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            "standard": {
+                              "url": "https://i.ytimg.com/vi/BXgBOwDYsNg/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            "maxres": {
+                              "url": "https://i.ytimg.com/vi/BXgBOwDYsNg/maxresdefault.jpg",
+                              "width": 1280,
+                              "height": 720
+                            }
+                          },
+                          "channelTitle": "Google Developers",
+                          "playlistId": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+                          "position": 7,
+                          "resourceId": {
+                            "kind": "youtube#video",
+                            "videoId": "BXgBOwDYsNg"
+                          }
+                        }
+                      }
+                    ]
+                  }
+
+
+
+
+       
+
+
+  ]  
+} 
+
+
